@@ -1,21 +1,10 @@
 {
 "name": "Julio Cesar Picazo Becerra",
 "studies": "Pasante: Ingenieria en Sistemas Computacionales",
-"age": "23 años",
+"age": "23 aÃ±os",
 "direction":"Lopez Portillo #20 Col. Martires de Rio Blanco, Naucalpan de Juarez, C.P.: 53780",
 "email":"picazobc@hotmail.com",
 "phone_number": "5580222710",
- "about_me": "Extracto profesional: Análisis, planeación y desarrollo de aplicaciones móviles Android, conocimientos avanzados desde API 19, gran capacidad de trabajo en equipo.",
- "job_experience":[{
- "name_job": "firstName",
- "responsabilities": "lastName",
- "date": "ks@gmail.com"
- }],
- "academic_flow":[{
- 	"corporation":"",
- 	"name_school":"",
- 	"document":
+ "about_me": "Extracto profesional: AnÃ¡lisis, planeaciÃ³n y desarrollo de aplicaciones mÃ³viles Android, conocimientos avanzados desde API 19, gran capacidad de trabajo en equipo.",
 
- }],
- "programing_skills":["Android","Kotlin","Python","Java (Hibernate, Spring).","SQL"]
 }
