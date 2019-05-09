@@ -8,7 +8,7 @@
  "about_me": "Análisis, planeación y desarrollo de aplicaciones móviles Android, conocimientos avanzados desde API 19, gran capacidad de trabajo en equipo. Certificado en ISO7035 la cual avala que soy apto para desarrollar y planificar aplicaciones para cobro conectando dispositivos certificados (NOMAD, Ingenico), desarrollador lider de BBVA Multipagos y desarrollador lider en Android en BBVA Bancomer Bmovil, ambas bajo desarrollo hibrido Java/Kotlin",
 "skills": [
         {"title": "BBVA Bancomer", "description": "Encargado de las aplicaciones Bmovil, BBVA Multipagos, BBVA Send, lider tecnico de Android", "time":"2016-2017"}, 
-        {"title": "Global HITSS", "description": "Encargado de la aplicacion ClaroConnect y ClaroDrive, mantenimiento preventivo, responsable Android", "time","2017-2018"}, 
+        {"title": "Global HITSS", "description": "Encargado de la aplicacion ClaroConnect y ClaroDrive, mantenimiento preventivo, responsable Android", "time":"2017-2018"}, 
         {"title": "BBVA FLAP", "description": "Encargado de la certificacion ISO7335 para sistemas de pago en telefonos celulares", "time":"2014-2016"}
     ]
 }
